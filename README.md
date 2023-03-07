@@ -1,6 +1,6 @@
-# Welcome to HashLips 👄
+# Welcome to CVSS SC 🚀
 
-![](https://github.com/HashLips/hashlips_nft_contract/blob/main/logo.png)
+![]()
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
@@ -8,15 +8,9 @@ To find out more please visit:
 
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+[ℹ️ Website](https://cryptoversespcaeship.online/)
 
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips NFT contract 🔥
+# CVSS NFT contract 🔥
 
 ![](https://github.com/HashLips/hashlips_nft_contract/blob/main/banner.png)
 
