@@ -12,8 +12,6 @@ To find out more please visit:
 
 # CVSS NFT contract 🔥
 
-![](https://github.com/HashLips/hashlips_nft_contract/blob/main/banner.png)
-
 This repo provides a simple NFT smart contract.
 
 ## Usage ℹ️
