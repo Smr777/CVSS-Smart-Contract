@@ -1,6 +1,6 @@
 # Welcome to CVSS SC 🚀
 
-![]()
+![](https://github.com/Smr777/CVSS-Smart-Contract/blob/main/CVSS.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
